@@ -1,0 +1,22 @@
+.circle{
+    border-radius: 50%;
+    background-image: radial-gradient(skyblue,white,purple);
+    height: 30em;
+    position: relative;
+    top: 50px;
+}
+.mainBorder{
+    border: 2px solid olive;
+    height: 600px;
+    background-color: lightskyblue;
+}
+
+button{
+    width: 100%;
+    margin: 10px;
+    height: 100%;
+}
+
+.bottom{
+    margin-top: 5px;
+}
